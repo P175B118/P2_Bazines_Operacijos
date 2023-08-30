@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction.If.Step1", "In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction.If.Step2", "Introduction.If.Step2\Introduction.If.Step2.csproj", "{DC4CF84D-1266-4649-90EB-D8870BB3B7A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction.SimpleMath", "Introduction.SimpleMath\Introduction.SimpleMath.csproj", "{114241D4-6E33-4DD3-B3C5-9C83AF9BA265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DC4CF84D-1266-4649-90EB-D8870BB3B7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC4CF84D-1266-4649-90EB-D8870BB3B7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC4CF84D-1266-4649-90EB-D8870BB3B7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114241D4-6E33-4DD3-B3C5-9C83AF9BA265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114241D4-6E33-4DD3-B3C5-9C83AF9BA265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114241D4-6E33-4DD3-B3C5-9C83AF9BA265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114241D4-6E33-4DD3-B3C5-9C83AF9BA265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
